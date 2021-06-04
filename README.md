@@ -15,15 +15,15 @@
 生活を少しでも豊かにするためです。
 
 ### ターゲットユーザ
-*主婦・主夫の方
-*一人暮らしの方
+- 主婦・主夫の方
+- 一人暮らしの方
 
 ### 主な利用シーン
-*家計の管理
-*レシピを保存、閲覧、公開など
+- 家計の管理
+- レシピを保存、閲覧、公開など
 
 ## 設計書
-*作成中
+- 作成中
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1HthpyM28b7BKUDAEz8ftDNWzmnd_5TTXxT1QWbjzygU/edit?usp=sharing>
