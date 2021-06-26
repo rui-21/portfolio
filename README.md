@@ -23,7 +23,7 @@
 - レシピを保存、閲覧、公開など
 
 ## 設計書
-- ER図: https://app.diagrams.net/#G1InDFrXKG0Nz2iQZen4AgajxnN_z8z1V_
+- ER図: <https://drive.google.com/file/d/1InDFrXKG0Nz2iQZen4AgajxnN_z8z1V_/view?usp=sharing>
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1HthpyM28b7BKUDAEz8ftDNWzmnd_5TTXxT1QWbjzygU/edit?usp=sharing>
